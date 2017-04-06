@@ -97,7 +97,7 @@
         　　　　　　};
         　　　　}
         　　};
-        　　alert(object.getNameFunc()());
+        　　alert(object.getNameFunc()());//My Object
 ```
 
 ## License
